@@ -1,40 +1,33 @@
-## Hi there 👋
-
 <!-- 1. GitHub usernameを変更 -->
-<div align=“right”>
-  <img src=“https://komarev.com/ghpvc/?username=Yeins21” />
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Cozy-Life" />
 </div>
+
+
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src=“https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif” width=“28"> Hi there
-- :科学技術者: I’m a software engineer.
-- :芽: I’m currently learning go!
-- :郵便受け: How to reach me: [Email - takeshiokada@okatakese.com]
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+
+- 🧑‍💻 I'm a software engineer.
+- 🌱 I’m currently learning go!
+- 📫 How to reach me: [Email - takeshiokada@okatakese.com]
 <br>
+
+
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## :芽: Skills
-<img alt=“my skills” src=“https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,vue,react,angular,java,vscode,eclipse,docker,git,github,aws,gcp” />
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,vue,react,angular,java,vscode,eclipse,docker,git,github,aws,gcp" />
 <br>
+
+
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## Activities
-<div align=“left”>
-  <img alt=“Top Langs” height=“170px” src=“https://github-readme-stats.vercel.app/api?username=Yeins21&theme=vue-dark&layout=compact” />
-  <img alt=“github stats” height=“170px” src=“https://github-readme-stats.vercel.app/api/top-langs/?username=Yeins21&theme=vue-dark&layout=compact” />
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Cozy-Life&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cozy-Life&theme=vue-dark&layout=compact" />
 </div>
-<!--
-This repository is a :ピカピカ: _special_ :ピカピカ: repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- :望遠鏡: I’m currently working on ...
-- :芽: I’m currently learning ...
-- :バニーガールズ: I’m looking to collaborate on ...
-- :考え中: I’m looking for help with ...
-- :入力中アイコン: Ask me about ...
-- :郵便受け: How to reach me: ...
-- :スマイル: Pronouns: ...
-- :いなずま: Fun fact: ...
--->
 
 ## サービスのURL
 https://〇〇

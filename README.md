@@ -20,8 +20,8 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## Activities
 <div align=“left”>
-  <img alt=“Top Langs” height=“170px” src=“https://github-readme-stats.vercel.app/api?username=Cozy-Life&theme=vue-dark&layout=compact” />
-  <img alt=“github stats” height=“170px” src=“https://github-readme-stats.vercel.app/api/top-langs/?username=Cozy-Life&theme=vue-dark&layout=compact” />
+  <img alt=“Top Langs” height=“170px” src=“https://github-readme-stats.vercel.app/api?username=Yeins21&theme=vue-dark&layout=compact” />
+  <img alt=“github stats” height=“170px” src=“https://github-readme-stats.vercel.app/api/top-langs/?username=Yeins21&theme=vue-dark&layout=compact” />
 </div>
 <!--
 This repository is a :ピカピカ: _special_ :ピカピカ: repository because its `README.md` (this file) appears on your GitHub profile.
